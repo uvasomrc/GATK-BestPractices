@@ -1,0 +1,21 @@
+{
+  "peFastq_to_GVCF.ref_fasta": "/project/genomes/Homo_sapiens/GATK_bundle/hg38/BWAIndex/hg38.fa",
+  "peFastq_to_GVCF.ref_fasta_index": "/project/genomes/Homo_sapiens/GATK_bundle/hg38/BWAIndex/hg30.fa.fai",
+  "peFastq_to_GVCF.ref_fasta_2bit": "/project/genomes/Homo_sapiens/GATK_bundle/hg38/hg38_2bit/hg38.fa.2bit",
+  "peFastq_to_GVCF.ref_bwt": "/project/genomes/Homo_sapiens/GATK_bundle/hg38/BWAIndex/hg38.fa.bwt",
+  "peFastq_to_GVCF.ref_amb": "/project/genomes/Homo_sapiens/GATK_bundle/hg38/BWAIndex/hg38.fa.amb",
+  "peFastq_to_GVCF.ref_sa": "/project/genomes/Homo_sapiens/GATK_bundle/hg38/BWAIndex/hg38.fa.sa",
+  "peFastq_to_GVCF.ref_pac": "/project/genomes/Homo_sapiens/GATK_bundle/hg38/BWAIndex/hg38.fa.pac",
+  "peFastq_to_GVCF.ref_ann": "/project/genomes/Homo_sapiens/GATK_bundle/hg38/BWAIndex/hg38.fa.ann",
+  "peFastq_to_GVCF.ref_alt": "/project/genomes/Homo_sapiens/GATK_bundle/hg38/BWAIndex/hg38.fa.64.alt",
+  "peFastq_to_GVCF.ref_dict": "/project/genomes/Homo_sapiens/GATK_bundle/hg38/BWAIndex/hg38.dict",
+
+  "peFastq_to_GVCF.dbSNP_vcf": "/project/genomes/Homo_sapiens/GATK_bundle/hg38/beta/Homo_sapiens_assembly38.dbsnp.vcf.gz",
+  "peFastq_to_GVCF.dbSNP_vcf_index": "/project/genomes/Homo_sapiens/GATK_bundle/hg38/beta/Homo_sapiens_assembly38.dbsnp.vcf.gz.tbi",
+  "peFastq_to_GVCF.known_indels_sites_VCFs": ["/project/genomes/Homo_sapiens/GATK_bundle/hg38/beta/Homo_sapiens_assembly38.known_indels.vcf.gz"],
+  "peFastq_to_GVCF.known_indels_sites_indices": ["/project/genomes/Homo_sapiens/GATK_bundle/hg38/beta/Homo_sapiens_assembly38.known_indels.vcf.gz.tbi"],
+
+  "peFastq_to_GVCF.sample_name": "NA12878",
+  "peFastq_to_GVCF.r1fastq": "/project/somrc/20180118/rawdata/NA12878_R1.subset.fastq",
+  "peFastq_to_GVCF.r2fastq": "/project/somrc/20180118/rawdata/NA12878_R2.subset.fastq"
+}
